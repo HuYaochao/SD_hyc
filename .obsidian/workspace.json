@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ff505661e7896e7",
+        "id": "458e1931d1a993a7",
         "type": "tabs",
         "children": [
           {
-            "id": "3cd4d1dd04469668",
+            "id": "0bd1f77bca8c50b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.java基础/3.Object.md",
+                "file": "3.java基础/0.设计原则.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.java基础/3.Object.md",
+                "file": "3.java基础/0.设计原则.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.java基础/3.Object.md",
+                "file": "3.java基础/0.设计原则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.java基础/3.Object.md"
+                "file": "3.java基础/0.设计原则.md"
               }
             }
           }
@@ -157,14 +157,15 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "3cd4d1dd04469668",
+  "active": "0bd1f77bca8c50b1",
   "lastOpenFiles": [
-    "3.java基础/2.java特性.md",
+    "未命名.canvas",
+    "3.java基础/集合.md",
     "3.java基础/0.设计原则.md",
     "3.java基础/0.native.md",
-    "3.java基础/3.Object.md",
     "3.java基础/1.Java基本.md",
-    "未命名.canvas",
+    "3.java基础/3.Object.md",
+    "3.java基础/2.java特性.md",
     "1.前端基础/3.JS.md",
     "1.前端基础/2.CSS.md",
     "1.前端基础/1.HTML.md",
@@ -202,7 +203,6 @@
     "大数据/1、学习路径/1、学习路线概述.md",
     "设计模式学习版/第0章 楔子.md",
     "Java系统分析与架构设计/0、概述.md",
-    "大数据/1、学习路径/3、 Linux基础.md",
     "大数据开发/04-分布式缓存",
     "大数据开发",
     "大数据/2、大数据开发"
