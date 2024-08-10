@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.java基础/0.设计原则.md",
+                "file": "3.java基础/4.集合.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.java基础/0.设计原则.md",
+                "file": "3.java基础/4.集合.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.java基础/0.设计原则.md",
+                "file": "3.java基础/4.集合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.java基础/0.设计原则.md"
+                "file": "3.java基础/4.集合.md"
               }
             }
           }
@@ -159,13 +159,15 @@
   },
   "active": "0bd1f77bca8c50b1",
   "lastOpenFiles": [
-    "3.java基础/集合.md",
-    "0.xmind/Principle-Class.png",
-    "3.java基础/2.java特性.md",
-    "3.java基础/3.Object.md",
-    "3.java基础/0.native.md",
-    "3.java基础/1.Java基本.md",
     "3.java基础/0.设计原则.md",
+    "3.java基础/5.异常.md",
+    "3.java基础/4.集合.md",
+    "3.java基础/3.Object.md",
+    "0.xmind/Principle-Class.png",
+    "0.xmind/front-end.jpg",
+    "3.java基础/2.java特性.md",
+    "3.java基础/1.Java基本.md",
+    "3.java基础/0.native.md",
     "0.xmind/未命名",
     "enclosure/d74nLXYHyb1cGNl.png",
     "enclosure/diagram.png",
@@ -182,7 +184,6 @@
     "2.前端框架/6.git.md",
     "2.前端框架/4.ts(TypeScript).md",
     "3.java基础",
-    "0.xmind/front-end.jpg",
     "0.xmind/Vue3.png",
     "1.前端基础/1.HTML手册.md",
     "2.前端框架/未命名",
