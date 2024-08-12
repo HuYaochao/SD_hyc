@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.java基础/4.集合.md",
+                "file": "3.java基础/5.MySQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 239.5,
+    "collapsed": true
   },
   "right": {
     "id": "a2183c1066925b96",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.java基础/4.集合.md",
+                "file": "3.java基础/5.MySQL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.java基础/4.集合.md",
+                "file": "3.java基础/5.MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.java基础/4.集合.md"
+                "file": "3.java基础/5.MySQL.md"
               }
             }
           }
@@ -159,10 +160,11 @@
   },
   "active": "0bd1f77bca8c50b1",
   "lastOpenFiles": [
+    "3.java基础/4.集合.md",
+    "3.java基础/5.MySQL.md",
+    "3.java基础/3.Object.md",
     "3.java基础/0.设计原则.md",
     "3.java基础/5.异常.md",
-    "3.java基础/4.集合.md",
-    "3.java基础/3.Object.md",
     "0.xmind/Principle-Class.png",
     "0.xmind/front-end.jpg",
     "3.java基础/2.java特性.md",
@@ -204,7 +206,6 @@
     "1.HTML.md",
     "大数据/1、学习路径/1、学习路线概述.md",
     "设计模式学习版/第0章 楔子.md",
-    "Java系统分析与架构设计/0、概述.md",
     "大数据开发/04-分布式缓存",
     "大数据开发"
   ]
