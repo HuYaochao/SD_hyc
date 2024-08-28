@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "458e1931d1a993a7",
+        "id": "a4c57fec5c6e0c8e",
         "type": "tabs",
         "children": [
           {
-            "id": "0bd1f77bca8c50b1",
+            "id": "a96f3c9a167409d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.java框架/4.Servlet.md",
+                "file": "补充/MyBatis ResultMap 和 DTO 映射：深入对比与应用场景.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 239.5,
+    "collapsed": true
   },
   "right": {
     "id": "a2183c1066925b96",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.java框架/4.Servlet.md",
+                "file": "补充/MyBatis ResultMap 和 DTO 映射：深入对比与应用场景.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.java框架/4.Servlet.md",
+                "file": "补充/MyBatis ResultMap 和 DTO 映射：深入对比与应用场景.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.java框架/4.Servlet.md"
+                "file": "补充/MyBatis ResultMap 和 DTO 映射：深入对比与应用场景.md"
               }
             }
           }
@@ -157,44 +158,48 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "0bd1f77bca8c50b1",
+  "active": "a96f3c9a167409d1",
   "lastOpenFiles": [
-    "4.java框架/3.http（Hyper Text Transfer Protocol 超文本传输协议）.md",
-    "4.java框架/2.Spring IOC.md",
-    "4.java框架/4.Servlet.md",
-    "4.java框架/未命名",
-    "4.java框架/1.反射.md",
-    "4.java框架/0.注解.md",
-    "3.java基础/5.MySQL.md",
-    "3.java基础/4.集合.md",
+    "4.java框架/5、MyBatis.md",
+    "补充/MyBatis ResultMap 和 DTO 映射：深入对比与应用场景.md",
+    "补充/MyBatis中 井和$符号的.md",
+    "补充/Spring SSM 与 SSH 技术栈对比：全面分析.md",
+    "2.前端框架/1.node.md",
+    "补充",
+    "2.前端框架/0.常用概念.md",
+    "1.前端基础/1.HTML.md",
+    "1.前端基础/2.CSS.md",
+    "1.前端基础/3.JS.md",
+    "2.前端框架/2.ajax.md",
+    "2.前端框架/3.axios.md",
+    "2.前端框架/4.ts(TypeScript).md",
+    "2.前端框架/5.1vue3.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "enclosure/Pasted image 20240717112932.png",
+    "2.前端框架/5.2 vue3Router.md",
+    "2.前端框架/5.3vue3Pinia.md",
+    "2.前端框架/6.git.md",
+    "3.java基础/0.包.md",
+    "3.java基础/0.设计原则.md",
     "3.java基础/1.Java基本.md",
+    "3.java基础/0.native.md",
     "3.java基础/2.java特性.md",
     "3.java基础/3.Object.md",
-    "3.java基础/0.设计原则.md",
-    "3.java基础/0.native.md",
-    "4.java框架/3.Spring IOC.md",
+    "3.java基础/4.集合.md",
+    "3.java基础/5.MySQL.md",
+    "4.java框架/4.Servlet.md",
+    "4.java框架/3.http（Hyper Text Transfer Protocol 超文本传输协议）.md",
+    "4.java框架/未命名",
     "enclosure/m1ZMVEkqnYSGCPA.jpg",
     "enclosure/lfb8gGvetFhqiuz.jpg",
     "4.java框架",
-    "3.java基础/0.包.md",
-    "tool/雪花算法（Snowflake Algorithm）.md",
     "tool",
-    "数据分析流程.md",
-    "3.java基础/5.异常.md",
     "0.xmind/Principle-Class.png",
     "0.xmind/front-end.jpg",
     "0.xmind/未命名",
     "enclosure/d74nLXYHyb1cGNl.png",
     "enclosure/diagram.png",
-    "未命名.canvas",
-    "1.前端基础/3.JS.md",
-    "1.前端基础/2.CSS.md",
-    "1.前端基础/1.HTML.md",
-    "2.前端框架/5.3vue3Pinia.md",
-    "2.前端框架/5.1vue3.md",
-    "2.前端框架/5.2 vue3Router.md",
-    "2.前端框架/0.常用概念.md",
-    "2.前端框架/2.ajax.md",
     "3.java基础",
     "0.xmind/Vue3.png",
     "2.前端框架/未命名",
@@ -202,9 +207,6 @@
     "0.xmind/front-end/front-end.png",
     "1.前端基础/未命名",
     "0.xmind/front-end",
-    "0.xmind",
-    "新建文件夹",
-    "未命名 1.canvas",
-    "enclosure/Pasted image 20240717112932.png"
+    "0.xmind"
   ]
 }
